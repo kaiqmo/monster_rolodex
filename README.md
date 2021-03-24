@@ -1,4 +1,6 @@
-[https://kaiqmo.github.io/monster_rolodex/](Monster RoloDex)
+Monster RoloDex
+
+Try it out on: https://kaiqmo.github.io/monster_rolodex/
 
 -----------------------
 
